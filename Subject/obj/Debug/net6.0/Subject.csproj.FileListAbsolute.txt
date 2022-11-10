@@ -1,0 +1,15 @@
+D:\heap_edu\Final\Subject\bin\Debug\net6.0\Subject.exe
+D:\heap_edu\Final\Subject\bin\Debug\net6.0\Subject.deps.json
+D:\heap_edu\Final\Subject\bin\Debug\net6.0\Subject.runtimeconfig.json
+D:\heap_edu\Final\Subject\bin\Debug\net6.0\Subject.dll
+D:\heap_edu\Final\Subject\bin\Debug\net6.0\Subject.pdb
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\Subject.csproj.AssemblyReference.cache
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\Subject.GeneratedMSBuildEditorConfig.editorconfig
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\Subject.AssemblyInfoInputs.cache
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\Subject.AssemblyInfo.cs
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\Subject.csproj.CoreCompileInputs.cache
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\Subject.dll
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\refint\Subject.dll
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\Subject.pdb
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\Subject.genruntimeconfig.cache
+D:\heap_edu\Final\Subject\obj\Debug\net6.0\ref\Subject.dll
